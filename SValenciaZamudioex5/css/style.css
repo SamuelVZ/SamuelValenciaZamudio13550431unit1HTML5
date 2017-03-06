@@ -1,0 +1,36 @@
+body{
+	background: #64ffda;
+}
+h1{
+	background-color: yellow;
+	text-align: center;
+}
+#menu{
+	float: left;
+
+}
+article{
+	margin-left: 50px;
+	padding-left: 30px;
+	display: inline-block;
+	border-left: 5px solid #03a9f4 ; 
+	
+}
+#posts{
+	border:3px dotted #5c6bc0;
+	float: right;
+
+}
+footer{
+	text-align: center;
+}
+h2{
+	font-family: Arial;
+	color:  #03a9f4 ;
+}
+p{
+	font-family:Times New Roman;
+}
+h1{
+	font-family: cursive;
+}

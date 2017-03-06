@@ -1,0 +1,19 @@
+#titulito{
+	text-align: center;
+	text-transform: uppercase;
+}
+article>p{
+	color: #dd2c00;
+}
+body{
+	background-color: #283593;
+}
+
+a{
+	color:#81c784;
+
+}
+p, summary{
+	color:#fafafa;
+}
+
